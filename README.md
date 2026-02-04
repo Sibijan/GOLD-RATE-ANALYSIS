@@ -1,8 +1,8 @@
-# GOLD RATE ANALYSIS DASHBOARD (2004–2005)
+# GOLD RATE ANALYSIS DASHBOARD (2004–2025)
 
 ## 📌 Project Overview
 This project analyzes historical **gold price trends** and presents insights using an interactive **Power BI dashboard**.  
-The dataset spans from **2004 to 2005**, helping users understand price movement, monthly averages, highest prices, and percentage changes over time.
+The dataset spans from **2004 to 2025**, helping users understand price movement, monthly averages, highest prices, and percentage changes over time.
 
 ---
 
